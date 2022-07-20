@@ -43,7 +43,7 @@ This data was collected from the [Mountain Rescue Association](https://mra.org).
 
 |Notebooks|Description|
 |:--|:--|
-|**01_EDA.ipynb**|Exploratory Data Analysis and Feature Engineering|
+|**[01_EDA.ipynb](https://github.com/deemerwsp/FINAL_CAPSTONE/blob/main/Capstone/Code/01_EDA.ipynb)**|Exploratory Data Analysis and Feature Engineering|
 |**02_Preprocessing.ipynb**|Preprocessing: dummifying, scaling, train test split|
 |**03_Logistic_Regression.ipynb**|Modeled Logistic Regression algorithm on processed data|
 |**04_Random_Forest.ipynb**|Model Random Forest algorithm on processed data|
