@@ -1,0 +1,19 @@
+,num_dropped
+"""type"" that aren't true SAR missions",1608.0
+"""category"" that aren't true SAR missions",553.0
+"""category_other"" that aren't true SAR missions",111.0
+"""total_hours"" are Null",678.0
+"""total_hours"" > 168 (7 days)",659.0
+"""date"" <= 2014",46.0
+"""age_sub_1"" > 92",5.0
+"""number_subjects"" > 10",31.0
+"""number_subjects"" = 0",1192.0
+"""number_subjects"" = ""number_sub_not_found""",418.0
+"""number_subjects"" = ""number_sub_doa""",364.0
+"""number_volunteers"" 40",10.0
+"""state"" have less than 20 datapoints",46.0
+"Dropping outliers for ""state""",60.0
+"""children"" = True outliers",8.0
+"""seniors"" = True outliers",10.0
+"""mental"" = True outliers",15.0
+"""gps"" = True outliers",10.0
